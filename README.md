@@ -1,11 +1,11 @@
-## Running the project
+## Dependencies
 
 After cloning the project, install the dependencies:
 ```bash
 npm install
 ```
 
-## Developing
+## Running the project
 
 Once you've cloned the project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
